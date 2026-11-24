@@ -1,0 +1,9 @@
+
+# [2026-11-24] Folder-sync conflict copies and editor backups.
+# Two conflict files reached the public site before this existed.
+*Edit conflict*
+*conflicted copy*
+*.bak
+*.orig
+*.tmp
+*~

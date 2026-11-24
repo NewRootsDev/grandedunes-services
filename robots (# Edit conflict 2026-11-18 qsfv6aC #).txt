@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://grandedunes.services/sitemap.xml
